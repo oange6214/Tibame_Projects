@@ -1,0 +1,35 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 843
+  },
+  "selected": true,
+  "name": "reich_menu",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1848,
+        "y": 0,
+        "width": 652,
+        "height": 840
+      },
+      "action": {
+        "type": "message",
+        "text": "@拍照"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1166,
+        "y": 0,
+        "width": 682,
+        "height": 843
+      },
+      "action": {
+        "type": "message",
+        "text": "@相簿"
+      }
+    }
+  ]
+}

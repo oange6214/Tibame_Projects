@@ -1,0 +1,12 @@
+setuptools       == 47.3.1
+gunicorn         == 20.0.4
+pytz             == 2018.9
+Flask            == 1.1.2
+line-bot-sdk     == 1.16.0
+PyMySQL          == 0.9.3
+numpy            == 1.18.5
+pillow           == 7.0.0
+matplotlib       == 3.2.2
+tensorflow       == 1.15.2
+keras            == 2.3.1
+imgurpython      == 1.1.7
