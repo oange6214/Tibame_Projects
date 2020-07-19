@@ -1,0 +1,83 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": false,
+  "name": "生活幫手",
+  "chatBarText": "← 鍵盤    ↓ 生活幫手",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1653,
+        "y": 4,
+        "width": 837,
+        "height": 825
+      },
+      "action": {
+        "type": "message",
+        "text": "@語言"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1657,
+        "y": 850,
+        "width": 841,
+        "height": 816
+      },
+      "action": {
+        "type": "message",
+        "text": "@天氣"
+      }
+    },
+    {
+      "bounds": {
+        "x": 842,
+        "y": 854,
+        "width": 790,
+        "height": 811
+      },
+      "action": {
+        "type": "message",
+        "text": "@樂透"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 854,
+        "width": 808,
+        "height": 820
+      },
+      "action": {
+        "type": "message",
+        "text": "@油價"
+      }
+    },
+    {
+      "bounds": {
+        "x": 8,
+        "y": 0,
+        "width": 825,
+        "height": 837
+      },
+      "action": {
+        "type": "message",
+        "text": "@作者"
+      }
+    },
+    {
+      "bounds": {
+        "x": 850,
+        "y": 8,
+        "width": 790,
+        "height": 833
+      },
+      "action": {
+        "type": "message",
+        "text": "@發票"
+      }
+    }
+  ]
+}

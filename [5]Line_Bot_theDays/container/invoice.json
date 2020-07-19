@@ -1,0 +1,422 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "109年11月、12",
+            "size": "3xl",
+            "align": "center",
+            "gravity": "center"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特別獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "41482012",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "58837976",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "頭獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "contents": [],
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "增開六獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "693 043 425",
+                "gravity": "center",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "109年11月、12",
+            "size": "3xl",
+            "align": "center",
+            "gravity": "center"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特別獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "41482012",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "58837976",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "頭獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "contents": [],
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "增開六獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "693 043 425",
+                "gravity": "center",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "109年11月、12",
+            "size": "3xl",
+            "align": "center",
+            "gravity": "center"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特別獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "41482012",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "特獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "58837976",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "頭獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "contents": [],
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "36193504",
+                "align": "center",
+                "gravity": "center"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "增開六獎",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "693 043 425",
+                "gravity": "center",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

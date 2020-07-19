@@ -1,0 +1,211 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://i.imgur.com/50SGK5l.jpg/1040",
+  "altText": "Weather_Map",
+  "baseSize": {
+    "width": 1040,
+    "height": 1288
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 535,
+        "y": 29,
+        "width": 121,
+        "height": 76
+      },
+      "text": "::臺北"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 865,
+        "y": 48,
+        "width": 114,
+        "height": 76
+      },
+      "text": "::基隆"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 592,
+        "y": 187,
+        "width": 83,
+        "height": 78
+      },
+      "text": "::桃園"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 699,
+        "y": 219,
+        "width": 99,
+        "height": 81
+      },
+      "text": "::新北"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 752,
+        "y": 336,
+        "width": 78,
+        "height": 63
+      },
+      "text": "::宜蘭"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 558,
+        "y": 281,
+        "width": 96,
+        "height": 61
+      },
+      "text": "::新竹"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 505,
+        "y": 357,
+        "width": 92,
+        "height": 73
+      },
+      "text": "::苗栗"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 431,
+        "y": 446,
+        "width": 95,
+        "height": 77
+      },
+      "text": "::臺中"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 694,
+        "y": 572,
+        "width": 81,
+        "height": 120
+      },
+      "text": "::花蓮"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 606,
+        "y": 838,
+        "width": 90,
+        "height": 120
+      },
+      "text": "::臺東"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 442,
+        "y": 959,
+        "width": 102,
+        "height": 105
+      },
+      "text": "::屏東"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 462,
+        "y": 836,
+        "width": 97,
+        "height": 92
+      },
+      "text": "::高雄"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 328,
+        "y": 807,
+        "width": 106,
+        "height": 106
+      },
+      "text": "::臺南"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 53,
+        "y": 929,
+        "width": 108,
+        "height": 76
+      },
+      "text": "::金門"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 60,
+        "y": 668,
+        "width": 87,
+        "height": 104
+      },
+      "text": "::澎湖"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 50,
+        "y": 432,
+        "width": 120,
+        "height": 75
+      },
+      "text": "::連江"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 523,
+        "y": 545,
+        "width": 109,
+        "height": 134
+      },
+      "text": "::南投"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 350,
+        "y": 555,
+        "width": 99,
+        "height": 65
+      },
+      "text": "::彰化"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 311,
+        "y": 634,
+        "width": 95,
+        "height": 62
+      },
+      "text": "::雲林"
+    },
+    {
+      "type": "message",
+      "area": {
+        "x": 364,
+        "y": 699,
+        "width": 120,
+        "height": 71
+      },
+      "text": "::嘉義"
+    }
+  ]
+}

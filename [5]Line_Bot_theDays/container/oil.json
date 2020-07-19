@@ -1,0 +1,264 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "油",
+            "gravity": "center",
+            "align": "center",
+            "weight": "bold",
+            "size": "xxl"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "98 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#FF0000",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#555555"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "95 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#FFDD00",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#555555"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "92 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#0000FF",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#555555"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "柴油",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "weight": "bold",
+                "size": "xxl",
+                "color": "#000000"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "2020/04/20    (元/公升)",
+            "gravity": "center",
+            "align": "end"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "油",
+            "gravity": "center",
+            "align": "center",
+            "weight": "bold",
+            "size": "xxl"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "98 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#FF0000",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "95 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#FFDD00",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "92 無鉛",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "size": "xxl",
+                "color": "#0000FF",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "柴油",
+                "align": "center",
+                "gravity": "center"
+              },
+              {
+                "type": "text",
+                "text": "10.0",
+                "align": "center",
+                "gravity": "center",
+                "weight": "bold",
+                "size": "xxl",
+                "color": "#000000"
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "2020/04/20    (元/公升)",
+            "gravity": "center",
+            "align": "end"
+          }
+        ]
+      }
+    }
+  ]
+}

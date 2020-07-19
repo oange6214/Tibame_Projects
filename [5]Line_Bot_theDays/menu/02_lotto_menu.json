@@ -1,0 +1,131 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "圖文選單 2",
+  "chatBarText": "←鍵盤 ↓彩券選單",
+  "areas": [
+    {
+      "bounds": {
+        "x": 883,
+        "y": 529,
+        "width": 671,
+        "height": 663
+      },
+      "action": {
+        "type": "message",
+        "text": "#回主選單"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 25,
+        "width": 735,
+        "height": 385
+      },
+      "action": {
+        "type": "message",
+        "text": "#38樂合彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 786,
+        "y": 25,
+        "width": 823,
+        "height": 478
+      },
+      "action": {
+        "type": "message",
+        "text": "#49樂合彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1630,
+        "y": 24,
+        "width": 845,
+        "height": 380
+      },
+      "action": {
+        "type": "message",
+        "text": "#39樂合彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 30,
+        "y": 409,
+        "width": 726,
+        "height": 410
+      },
+      "action": {
+        "type": "message",
+        "text": "#3星彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1630,
+        "y": 414,
+        "width": 836,
+        "height": 409
+      },
+      "action": {
+        "type": "message",
+        "text": "#4星彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 33,
+        "y": 819,
+        "width": 727,
+        "height": 461
+      },
+      "action": {
+        "type": "message",
+        "text": "#今彩539"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1625,
+        "y": 823,
+        "width": 858,
+        "height": 456
+      },
+      "action": {
+        "type": "message",
+        "text": "#雙贏彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 1288,
+        "width": 1200,
+        "height": 397
+      },
+      "action": {
+        "type": "message",
+        "text": "#威力彩"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1234,
+        "y": 1287,
+        "width": 1245,
+        "height": 394
+      },
+      "action": {
+        "type": "message",
+        "text": "#大樂透"
+      }
+    }
+  ]
+}

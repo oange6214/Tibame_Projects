@@ -1,0 +1,107 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "遊戲",
+        "align": "center",
+        "gravity": "center",
+        "size": "4xl"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "期別",
+            "align": "center",
+            "gravity": "center"
+          },
+          {
+            "type": "text",
+            "text": "000000000",
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "本期中獎號碼",
+            "contents": [],
+            "align": "center",
+            "gravity": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "04 05 09 15 18 23 25 36",
+            "align": "center",
+            "gravity": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "38",
+            "align": "center",
+            "gravity": "center",
+            "color": "#FF0000",
+            "weight": "bold"
+          }
+        ]
+      },
+      {
+        "type": "separator"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "開獎日期",
+            "align": "center",
+            "gravity": "center"
+          },
+          {
+            "type": "text",
+            "text": "2020/04/26"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "兌獎日期",
+            "gravity": "center",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "2020/05/26"
+          }
+        ]
+      }
+    ]
+  }
+}

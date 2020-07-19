@@ -1,0 +1,74 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "新北市",
+        "gravity": "bottom",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "天氣狀況",
+        "gravity": "center",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "30",
+        "align": "center",
+        "gravity": "center",
+        "size": "5xl",
+        "color": "#000000",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "gravity": "center",
+        "align": "center",
+        "contents": [
+          {
+            "type": "span",
+            "text": "↑30",
+            "color": "#FF0000"
+          },
+          {
+            "type": "span",
+            "text": "↓20",
+            "color": "#0000FF"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "舒適度",
+        "gravity": "center",
+        "align": "center"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "降雨機率",
+        "gravity": "center",
+        "align": "center"
+      }
+    ]
+  },
+  "size": "giga"
+}
