@@ -6,7 +6,7 @@ gTTS             == 2.1.1
 pydub            == 0.23.1
 SpeechRecognition == 3.8.1
 line-bot-sdk     == 1.16.0
-lxml             == 4.5.0
+lxml             == 4.6.3
 numpy            == 1.18.3
 pandas           == 1.0.3
 requests         == 2.23.0
